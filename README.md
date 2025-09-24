@@ -1,3 +1,0 @@
-# EJEMPLO1
-APRENDIENDO
-tutorial
